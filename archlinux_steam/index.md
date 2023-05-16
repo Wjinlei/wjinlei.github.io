@@ -4,13 +4,13 @@
 {{< image src="05.png" caption="最终运行效果" width="100%" height="100%" >}}
 
 >得益于`Proton`技术的支持，让我们可以运行`Steam`上的大部分游戏。  
-今天道长就以`拳皇13`为例子来演示`ArchLinux`下安装`Steam`，快来一起看看吧！
-
-{{< admonition >}}
-Steam并没有为ArchLinux提供支持，Steam只对`Ubuntu LTS` 提供支持，因此首先你需要开启 `multilib` 库
-{{< /admonition >}}
+下面我就以`拳皇13`为例子来演示`ArchLinux`下安装`Steam`，快来一起看看吧！
 
 <!--more-->
+
+{{< admonition >}}
+Steam并没有为`ArchLinux`提供支持，Steam只对`Ubuntu LTS` 提供支持，因此首先你需要开启 `multilib` 库
+{{< /admonition >}}
 
 本文主要参考了Arch Wiki[^wiki]
 

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ArchLinux - 标签 - 王道长的一亩三分地</title>
+        <title>ArchLinux - 标签 - 王同学的一亩三分地</title>
         <link>https://wjinlei.github.io/tags/archlinux/</link>
-        <description>ArchLinux - 标签 - 王道长的一亩三分地</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王道长)</managingEditor>
-            <webMaster>wjinlei.1996@qq.com (无所谓王道长)</webMaster><lastBuildDate>Mon, 15 May 2023 12:24:13 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/tags/archlinux/" rel="self" type="application/rss+xml" /><item>
+        <description>ArchLinux - 标签 - 王同学的一亩三分地</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王同学)</managingEditor>
+            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Mon, 15 May 2023 12:24:13 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/tags/archlinux/" rel="self" type="application/rss+xml" /><item>
     <title>在ArchLinux上安装Steam并运行拳皇13</title>
     <link>https://wjinlei.github.io/archlinux_steam/</link>
     <pubDate>Mon, 15 May 2023 12:24:13 &#43;0800</pubDate><author>
-                        <name>无所谓王道长</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/archlinux_steam/</guid>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/archlinux_steam/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/archlinux_steam/05.png" title="/archlinux_steam/05.png" data-thumbnail="/archlinux_steam/05.png" data-sub-html="<h2>最终运行效果</h2>">
         <img
             
@@ -21,15 +21,7 @@
     </figure>
 <blockquote>
 <p>得益于<code>Proton</code>技术的支持，让我们可以运行<code>Steam</code>上的大部分游戏。<br>
-今天道长就以<code>拳皇13</code>为例子来演示<code>ArchLinux</code>下安装<code>Steam</code>，快来一起看看吧！</p>
-</blockquote>
-<div class="details admonition note open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw"></i>注意<i class="details-icon fas fa-angle-right fa-fw"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">Steam并没有为ArchLinux提供支持，Steam只对<code>Ubuntu LTS</code> 提供支持，因此首先你需要开启 <code>multilib</code> 库</div>
-        </div>
-    </div>]]></description>
+下面我就以<code>拳皇13</code>为例子来演示<code>ArchLinux</code>下安装<code>Steam</code>，快来一起看看吧！</p>
+</blockquote>]]></description>
 </item></channel>
 </rss>
