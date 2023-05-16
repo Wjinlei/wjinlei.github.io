@@ -9,17 +9,9 @@
     <link>https://wjinlei.github.io/archlinux_steam/</link>
     <pubDate>Mon, 15 May 2023 12:24:13 &#43;0800</pubDate><author>
                         <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/archlinux_steam/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/archlinux_steam/05.png" title="/archlinux_steam/05.png" data-thumbnail="/archlinux_steam/05.png" data-sub-html="<h2>最终运行效果</h2>">
-        <img
-            
-            loading="lazy"
-            src="/archlinux_steam/05.png"
-            srcset="/archlinux_steam/05.png, /archlinux_steam/05.png 1.5x, /archlinux_steam/05.png 2x"
-            sizes="auto"
-            alt="/archlinux_steam/05.png" height="100%"  width="100%" >
-    </a><figcaption class="image-caption">最终运行效果</figcaption>
-    </figure>
-<blockquote>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/archlinux_steam/05.png" referrerpolicy="no-referrer">
+            </div><blockquote>
 <p>得益于<code>Proton</code>技术的支持，让我们可以运行<code>Steam</code>上的大部分游戏。<br>
 下面我就以<code>拳皇13</code>为例子来演示<code>ArchLinux</code>下安装<code>Steam</code>，快来一起看看吧！</p>
 </blockquote>]]></description>
