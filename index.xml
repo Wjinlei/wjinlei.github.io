@@ -28,5 +28,13 @@
 <p>事情的起因是这样的，我最近买了一台街机摇杆<code>拳霸Q4</code>，安奈不住激动的心情，马上就装了个<code>虚拟机</code>。<br>
 然后通过虚拟机运行模拟器，再把USB接到虚拟机里来玩，但我发现，游戏总是玩不了多久就很卡。</p>
 </blockquote>]]></description>
+</item><item>
+    <title>pyenv Python多版本管理工具的使用</title>
+    <link>https://wjinlei.github.io/pyenv/</link>
+    <pubDate>Thu, 04 Nov 2021 01:33:25 &#43;0800</pubDate><author>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/pyenv/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pyenv/Manage-multiple-Python-Versions-with-Pyenv.webp" referrerpolicy="no-referrer">
+            </div><p><a href="https://github.com/pyenv/pyenv" target="_blank" rel="noopener noreferrer">pyenv</a> 是一个<code>Python</code>多版本管理工具，使用它可以最大程度的避免你弄坏系统的<code>Python</code><br/></p>]]></description>
 </item></channel>
 </rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>生产力工具推荐 - 系列 - 王同学的一亩三分地</title>
+        <link>https://wjinlei.github.io/series/tools/</link>
+        <description>生产力工具推荐 - 系列 - 王同学的一亩三分地</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王同学)</managingEditor>
+            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Thu, 04 Nov 2021 01:33:25 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/series/tools/" rel="self" type="application/rss+xml" /><item>
+    <title>pyenv Python多版本管理工具的使用</title>
+    <link>https://wjinlei.github.io/pyenv/</link>
+    <pubDate>Thu, 04 Nov 2021 01:33:25 &#43;0800</pubDate><author>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/pyenv/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pyenv/Manage-multiple-Python-Versions-with-Pyenv.webp" referrerpolicy="no-referrer">
+            </div><p><a href="https://github.com/pyenv/pyenv" target="_blank" rel="noopener noreferrer">pyenv</a> 是一个<code>Python</code>多版本管理工具，使用它可以最大程度的避免你弄坏系统的<code>Python</code><br/></p>]]></description>
+</item></channel>
+</rss>
