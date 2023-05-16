@@ -23,5 +23,24 @@
 <p>得益于<code>Proton</code>技术的支持，让我们可以运行<code>Steam</code>上的大部分游戏。<br>
 下面我就以<code>拳皇13</code>为例子来演示<code>ArchLinux</code>下安装<code>Steam</code>，快来一起看看吧！</p>
 </blockquote>]]></description>
+</item><item>
+    <title>在ArchLinux上安装MAME模拟器并运行拳皇97</title>
+    <link>https://wjinlei.github.io/archlinux_kof/</link>
+    <pubDate>Sat, 02 Jul 2022 16:34:20 &#43;0800</pubDate><author>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/archlinux_kof/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/archlinux_kof/running01.png" title="/archlinux_kof/running01.png" data-thumbnail="/archlinux_kof/running01.png" data-sub-html="<h2>最终运行效果</h2>">
+        <img
+            
+            loading="lazy"
+            src="/archlinux_kof/running01.png"
+            srcset="/archlinux_kof/running01.png, /archlinux_kof/running01.png 1.5x, /archlinux_kof/running01.png 2x"
+            sizes="auto"
+            alt="/archlinux_kof/running01.png" height="100%"  width="100%" >
+    </a><figcaption class="image-caption">最终运行效果</figcaption>
+    </figure>
+<blockquote>
+<p>事情的起因是这样的，我最近买了一台街机摇杆<code>拳霸Q4</code>，安奈不住激动的心情，马上就装了个<code>虚拟机</code>。<br>
+然后通过虚拟机运行模拟器，再把USB接到虚拟机里来玩，但我发现，游戏总是玩不了多久就很卡。</p>
+</blockquote>]]></description>
 </item></channel>
 </rss>

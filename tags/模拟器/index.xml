@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ArchLinux - 标签 - 王同学的一亩三分地</title>
-        <link>https://wjinlei.github.io/tags/archlinux/</link>
-        <description>ArchLinux - 标签 - 王同学的一亩三分地</description>
+        <title>模拟器 - 标签 - 王同学的一亩三分地</title>
+        <link>https://wjinlei.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <description>模拟器 - 标签 - 王同学的一亩三分地</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王同学)</managingEditor>
-            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Mon, 15 May 2023 12:24:13 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/tags/archlinux/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Mon, 15 May 2023 12:24:13 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
     <title>在ArchLinux上安装Steam并运行拳皇13</title>
     <link>https://wjinlei.github.io/archlinux_steam/</link>
     <pubDate>Mon, 15 May 2023 12:24:13 &#43;0800</pubDate><author>
