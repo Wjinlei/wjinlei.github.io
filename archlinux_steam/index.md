@@ -1,10 +1,10 @@
 # 在ArchLinux上安装Steam并运行拳皇13
 
 
-![steam][image05]
+{{< image src="05.png" caption="最终运行效果" width="100%" height="100%" >}}
 
 >得益于`Proton`技术的支持，让我们可以运行`Steam`上的大部分游戏。  
-今天`小王同学`就以`拳皇13`为例子来演示`ArchLinux`下安装`Steam`，快来一起看看吧！
+今天道长就以`拳皇13`为例子来演示`ArchLinux`下安装`Steam`，快来一起看看吧！
 
 {{< admonition >}}
 Steam并没有为ArchLinux提供支持，Steam只对`Ubuntu LTS` 提供支持，因此首先你需要开启 `multilib` 库
@@ -44,33 +44,26 @@ sudo pacman -S ttf-liberation
 
 直接命令行运行 `steam` 即可，第一次运行会进行更新
 
-![steam][image01]
+{{< image src="01.png" caption="更新中..." width="100%" height="100%" >}}
 
 ## 设置Steam
 更新完成后，登录你的`Steam`，我们需要开启`Proton`，它是`Linux`下运行`Windows`游戏必备的东西，它类似`Wine`
 
-![steam][image02]
+{{< image src="02.png" caption="开启Proton" width="100%" height="100%" >}}
 
 然后下载你的游戏即可，第一次下载会自动下载`Proton`
 
-![steam][image03]
+{{< image src="03.png" caption="下载运行时" width="100%" height="100%" >}}
 
 下载好后就可以愉快的玩耍了，哈哈
 
 ## 下面是拳皇13运行截图
 
-![steam][image04]
+{{< image src="04.png" caption="安装中..." width="100%" height="100%" >}}
 
 >PS: 这两张图手机拍的
 
-![steam][image05]
-![steam][image06]
+{{< image src="05.png" caption="最终效果预览" width="100%" height="100%" >}}
+{{< image src="06.png" caption="最终效果预览" width="100%" height="100%" >}}
 
 [^wiki]: [Arch Wiki Steam 安装文档](https://wiki.archlinux.org/title/Steam_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
-
-[image01]: 01.png
-[image02]: 02.png
-[image03]: 03.png
-[image04]: 04.png
-[image05]: 05.png
-[image06]: 06.png
