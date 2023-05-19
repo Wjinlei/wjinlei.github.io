@@ -11,6 +11,8 @@
                         <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/archlinux_email/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/archlinux_email/Mutt.png" referrerpolicy="no-referrer">
-            </div>一个视频带你了解Linux终端下的邮件解决方案Mutt框架的配置与使用 介绍自动使用了窗口管理器后，我几乎希望所有的事情都能在终端下完成。所以]]></description>
+            </div><blockquote>
+<p>一个视频带你了解<code>Linux终端下的</code>邮件解决方案<code>Mutt</code>框架的配置与使用</p>
+</blockquote>]]></description>
 </item></channel>
 </rss>
