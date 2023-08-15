@@ -4,7 +4,17 @@
         <link>https://wjinlei.github.io/authors/jerry/</link>
         <description>Jerry - 作者 - 王同学的一亩三分地</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王同学)</managingEditor>
-            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Tue, 15 Aug 2023 14:22:07 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/authors/jerry/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Tue, 15 Aug 2023 14:57:05 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/authors/jerry/" rel="self" type="application/rss+xml" /><item>
+    <title>DEB包的制作方法</title>
+    <link>https://wjinlei.github.io/linux_deb/</link>
+    <pubDate>Tue, 15 Aug 2023 14:57:05 &#43;0800</pubDate><author>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/linux_deb/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/linux_deb/debian_package.webp" referrerpolicy="no-referrer">
+            </div><blockquote>
+<p>想要制作<code>deb</code>包，有多种方法，这里只说我认为最简单的方法<code>dpkg-deb -b</code>来生成<code>deb</code>包</p>
+</blockquote>]]></description>
+</item><item>
     <title>RPM包的制作方法</title>
     <link>https://wjinlei.github.io/linux_rpm/</link>
     <pubDate>Tue, 15 Aug 2023 14:22:07 &#43;0800</pubDate><author>
