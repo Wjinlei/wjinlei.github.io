@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>RPM - 标签 - 王同学的一亩三分地</title>
+        <link>https://wjinlei.github.io/tags/rpm/</link>
+        <description>RPM - 标签 - 王同学的一亩三分地</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wjinlei.1996@qq.com (无所谓王同学)</managingEditor>
+            <webMaster>wjinlei.1996@qq.com (无所谓王同学)</webMaster><lastBuildDate>Tue, 15 Aug 2023 14:22:07 &#43;0800</lastBuildDate><atom:link href="https://wjinlei.github.io/tags/rpm/" rel="self" type="application/rss+xml" /><item>
+    <title>RPM包的制作方法</title>
+    <link>https://wjinlei.github.io/linux_rpm/</link>
+    <pubDate>Tue, 15 Aug 2023 14:22:07 &#43;0800</pubDate><author>
+                        <name>无所谓王同学</name><uri>https://github.com/Wjinlei</uri><email>wjinlei.1996@qq.com</email></author><guid>https://wjinlei.github.io/linux_rpm/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/linux_rpm/package.webp" referrerpolicy="no-referrer">
+            </div><blockquote>
+<p>要制作<code>RPM</code>包，我们需要编写<code>.spec</code>文件，然后安装<code>rpm-build</code>为我们编译并生成<code>rpm</code>包</p>
+</blockquote>]]></description>
+</item></channel>
+</rss>
