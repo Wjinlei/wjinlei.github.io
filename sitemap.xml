@@ -2,352 +2,568 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-03T07:11:37+08:00</lastmod>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-071-move_assignment_operator/</loc>
+    <lastmod>2025-09-20T22:29:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://wjinlei.github.io/categories/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/tags/cpp/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/tags/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-070-move_semantics/</loc>
+    <lastmod>2025-09-20T22:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-069-lvalues_and_rvalues/</loc>
+    <lastmod>2025-09-20T22:26:02+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-068-track_memory_allocations/</loc>
+    <lastmod>2025-09-20T22:24:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-067-sso/</loc>
+    <lastmod>2025-09-20T22:33:16+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-066-singletons/</loc>
+    <lastmod>2025-09-20T22:15:30+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-065-stringview/</loc>
+    <lastmod>2025-09-20T22:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-064-async_future/</loc>
+    <lastmod>2025-09-20T22:12:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-063-any/</loc>
+    <lastmod>2025-09-20T22:10:14+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-062-variant/</loc>
+    <lastmod>2025-09-20T22:07:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-061-optional/</loc>
+    <lastmod>2025-09-20T21:55:40+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-060-structured_bindings/</loc>
+    <lastmod>2025-09-20T21:53:53+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-059-benchmarking/</loc>
+    <lastmod>2025-09-20T21:52:18+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-058-precompiled_headers/</loc>
+    <lastmod>2025-09-20T21:50:52+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-057-casting/</loc>
+    <lastmod>2025-09-20T21:49:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-056-virtual_destructors/</loc>
+    <lastmod>2025-09-20T21:48:17+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-055-union/</loc>
+    <lastmod>2025-09-20T21:46:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-054-type_punning/</loc>
+    <lastmod>2025-09-20T21:45:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-053-sorting/</loc>
+    <lastmod>2025-09-20T21:43:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-052-multidimensional_arrays/</loc>
+    <lastmod>2025-09-20T21:42:33+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-051-timing/</loc>
+    <lastmod>2025-09-20T21:41:07+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-050-threads/</loc>
+    <lastmod>2025-09-20T21:39:05+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-049-namespace/</loc>
+    <lastmod>2025-09-20T21:37:52+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-048-lambda/</loc>
+    <lastmod>2025-09-20T21:36:34+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-047-function_pointer/</loc>
+    <lastmod>2025-09-20T21:35:20+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-046-static_arrays/</loc>
+    <lastmod>2025-09-20T21:34:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-045-auto_keyword/</loc>
+    <lastmod>2025-09-20T21:32:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-044-macro/</loc>
+    <lastmod>2025-09-20T20:59:26+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-043-templates/</loc>
+    <lastmod>2025-09-20T20:57:25+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-042-pair_tuple/</loc>
+    <lastmod>2025-09-20T20:56:24+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-041-using_dynamic_library/</loc>
+    <lastmod>2025-09-20T20:53:40+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-040-using_static_library/</loc>
+    <lastmod>2025-09-20T20:52:33+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-039-optimizing_usage_vector/</loc>
+    <lastmod>2025-09-20T20:51:23+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-038-dynamic_arrays/</loc>
+    <lastmod>2025-09-20T20:50:17+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-037-arrow_operator/</loc>
+    <lastmod>2025-09-20T20:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-036-copy_constructors/</loc>
+    <lastmod>2025-09-20T20:48:19+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-035-smart_pointer/</loc>
+    <lastmod>2025-09-20T20:46:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-034-lifetime/</loc>
+    <lastmod>2025-09-20T20:45:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-033-this/</loc>
+    <lastmod>2025-09-20T20:44:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-032-operator_overloading/</loc>
+    <lastmod>2025-09-20T20:44:05+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-031-implicit_conversion_and_explicit_keyword/</loc>
+    <lastmod>2025-09-20T20:43:23+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-030-new_keyword/</loc>
+    <lastmod>2025-09-20T20:42:27+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-029-how_to_create_instantiate_object/</loc>
+    <lastmod>2025-09-20T20:41:50+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-028-ternary_operators/</loc>
+    <lastmod>2025-09-20T20:40:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-027-member_initializer_lists/</loc>
+    <lastmod>2025-09-20T20:40:30+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-026-mutable/</loc>
+    <lastmod>2025-09-20T20:40:06+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-025-const/</loc>
+    <lastmod>2025-03-13T22:46:34+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-024-string_literals/</loc>
+    <lastmod>2025-03-13T17:58:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-023-string/</loc>
+    <lastmod>2025-03-13T17:38:41+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-022-arrays/</loc>
+    <lastmod>2025-03-13T17:16:21+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-021-friend/</loc>
+    <lastmod>2025-03-13T16:51:17+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-020-visibility/</loc>
+    <lastmod>2025-03-13T16:39:30+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-019-pure_virtual_function/</loc>
+    <lastmod>2025-03-13T16:12:38+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-018-virtual_function/</loc>
+    <lastmod>2025-03-13T16:05:04+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-017-extend/</loc>
+    <lastmod>2025-03-10T18:34:52+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-016-destructor/</loc>
+    <lastmod>2025-03-10T18:05:05+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-015-constructor/</loc>
+    <lastmod>2025-03-10T17:56:27+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-014-enum/</loc>
+    <lastmod>2025-03-10T17:37:10+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-013-static_in_local/</loc>
+    <lastmod>2025-03-10T17:21:02+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-012-static_in_classes/</loc>
+    <lastmod>2025-03-10T16:47:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-011-static_in_global/</loc>
+    <lastmod>2025-03-10T16:37:30+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-010-class_struct/</loc>
+    <lastmod>2025-03-03T12:17:32+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-009-reference/</loc>
+    <lastmod>2025-03-03T11:23:33+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-008-pointer/</loc>
+    <lastmod>2025-03-03T11:00:46+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-007-switch/</loc>
+    <lastmod>2025-03-03T10:44:01+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-006-for/</loc>
+    <lastmod>2025-03-03T10:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-005-if/</loc>
+    <lastmod>2025-03-03T10:19:44+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-004-header/</loc>
+    <lastmod>2025-03-03T10:15:19+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-003-function/</loc>
+    <lastmod>2025-03-03T09:51:52+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-002-variable/</loc>
+    <lastmod>2025-03-03T09:48:41+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/posts/code-cpp/code-cpp-001-helloworld/</loc>
+    <lastmod>2025-03-03T09:39:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wjinlei.github.io/tags/java/</loc>
     <lastmod>2025-03-01T18:18:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day30/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day30/</loc>
     <lastmod>2025-03-01T18:18:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-01T21:53:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/spring/</loc>
+    <loc>https://wjinlei.github.io/tags/spring/</loc>
     <lastmod>2025-03-01T18:18:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/springboot/</loc>
+    <loc>https://wjinlei.github.io/tags/springboot/</loc>
     <lastmod>2025-03-01T18:18:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-01T21:53:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2025-03-01T21:53:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-03T07:11:37+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://wjinlei.github.io/tags/docker/</loc>
     <lastmod>2025-03-01T18:16:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day29/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day29/</loc>
     <lastmod>2025-03-01T18:16:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day28/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day28/</loc>
     <lastmod>2025-03-01T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
     <lastmod>2025-03-01T18:06:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day27/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day27/</loc>
     <lastmod>2025-03-01T18:10:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://wjinlei.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2025-03-01T18:10:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day26/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day26/</loc>
     <lastmod>2025-03-01T18:04:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day25/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day25/</loc>
     <lastmod>2025-03-01T17:59:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mybatis/</loc>
+    <loc>https://wjinlei.github.io/tags/mybatis/</loc>
     <lastmod>2025-03-01T17:59:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day24/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day24/</loc>
     <lastmod>2025-03-01T17:52:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day23/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day23/</loc>
     <lastmod>2025-03-01T17:45:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day22/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day22/</loc>
     <lastmod>2025-03-01T17:35:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2025-03-01T17:35:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://wjinlei.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-03-01T17:35:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day21/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day21/</loc>
     <lastmod>2025-03-01T17:32:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day20/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day20/</loc>
     <lastmod>2025-03-01T17:26:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day13/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day13/</loc>
     <lastmod>2025-03-01T17:15:33+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day12/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day12/</loc>
     <lastmod>2025-03-01T17:07:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day11/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day11/</loc>
     <lastmod>2025-03-01T16:54:36+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>https://wjinlei.github.io/tags/sql/</loc>
     <lastmod>2025-03-01T16:54:36+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day10/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day10/</loc>
     <lastmod>2025-03-01T08:54:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day9/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day9/</loc>
     <lastmod>2025-03-01T08:45:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day8/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day8/</loc>
     <lastmod>2025-03-01T08:34:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/maven/</loc>
+    <loc>https://wjinlei.github.io/tags/maven/</loc>
     <lastmod>2025-03-01T08:34:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day7/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day7/</loc>
     <lastmod>2025-03-01T08:13:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day6/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day6/</loc>
     <lastmod>2025-03-01T08:06:45+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day5/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day5/</loc>
     <lastmod>2025-03-01T07:58:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day4/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day4/</loc>
     <lastmod>2025-03-01T07:59:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day3/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day3/</loc>
     <lastmod>2025-03-01T07:59:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day2/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day2/</loc>
     <lastmod>2025-03-01T08:00:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-java/code-java-day1/</loc>
+    <loc>https://wjinlei.github.io/posts/code-java/code-java-day1/</loc>
     <lastmod>2025-03-01T07:38:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
+    <loc>https://wjinlei.github.io/tags/rust/</loc>
     <lastmod>2025-03-01T21:53:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-tokio2/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-tokio2/</loc>
     <lastmod>2025-03-01T21:53:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tokio/</loc>
+    <loc>https://wjinlei.github.io/tags/tokio/</loc>
     <lastmod>2025-03-01T21:53:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-tokio1/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-tokio1/</loc>
     <lastmod>2025-03-01T21:52:39+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-async/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-async/</loc>
     <lastmod>2025-03-01T21:52:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-adv_func/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-adv_func/</loc>
     <lastmod>2025-03-01T21:51:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-adv_types/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-adv_types/</loc>
     <lastmod>2025-03-01T21:50:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-adv_trait/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-adv_trait/</loc>
     <lastmod>2025-03-01T21:50:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-unsafe/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-unsafe/</loc>
     <lastmod>2025-03-01T21:49:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-pattern/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-pattern/</loc>
     <lastmod>2025-03-01T21:48:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-oop/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-oop/</loc>
     <lastmod>2025-03-01T21:47:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-send_sync/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-send_sync/</loc>
     <lastmod>2025-03-01T21:47:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-atomic/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-atomic/</loc>
     <lastmod>2025-03-01T21:46:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-condvar/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-condvar/</loc>
     <lastmod>2025-03-01T21:46:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-mutex/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-mutex/</loc>
     <lastmod>2025-03-01T21:41:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-channel/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-channel/</loc>
     <lastmod>2025-03-01T21:41:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-thread/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-thread/</loc>
     <lastmod>2025-03-01T21:40:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-circular_reference/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-circular_reference/</loc>
     <lastmod>2025-03-01T21:39:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-refcell/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-refcell/</loc>
     <lastmod>2025-03-01T21:39:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-rc/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-rc/</loc>
     <lastmod>2025-03-01T21:37:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-drop/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-drop/</loc>
     <lastmod>2024-10-01T09:08:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-deref/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-deref/</loc>
     <lastmod>2024-10-01T09:08:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-box/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-box/</loc>
     <lastmod>2024-10-01T09:08:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-iterator/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-iterator/</loc>
     <lastmod>2025-03-01T21:36:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-closures/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-closures/</loc>
     <lastmod>2025-03-01T21:36:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-tests/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-tests/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-lifetime/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-lifetime/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-trait/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-trait/</loc>
     <lastmod>2025-03-01T21:35:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-generics/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-generics/</loc>
     <lastmod>2024-10-01T09:08:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-result/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-result/</loc>
     <lastmod>2025-03-01T21:34:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-hashmap/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-hashmap/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-string/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-string/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-vector/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-vector/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-mod/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-mod/</loc>
     <lastmod>2025-03-01T21:33:07+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-iflet/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-iflet/</loc>
     <lastmod>2025-03-01T21:32:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-match/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-match/</loc>
     <lastmod>2025-03-01T21:30:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-option/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-option/</loc>
     <lastmod>2025-03-01T21:28:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-enum/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-enum/</loc>
     <lastmod>2025-03-01T21:25:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-method/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-method/</loc>
     <lastmod>2025-03-01T21:24:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-struct/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-struct/</loc>
     <lastmod>2025-03-01T21:23:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-slice/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-slice/</loc>
     <lastmod>2025-03-01T21:22:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-references_and_borrowing/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-references_and_borrowing/</loc>
     <lastmod>2025-03-01T21:21:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-ownership/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-ownership/</loc>
     <lastmod>2025-03-01T21:20:21+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-function/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-function/</loc>
     <lastmod>2025-03-01T21:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-mutvar/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-mutvar/</loc>
     <lastmod>2025-03-01T21:17:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-guessing_game/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-guessing_game/</loc>
     <lastmod>2025-03-01T21:15:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-hello/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-hello/</loc>
     <lastmod>2025-03-01T21:13:36+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://wjinlei.github.io/tags/linux/</loc>
     <lastmod>2025-03-01T06:55:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/linux/</loc>
+    <loc>https://wjinlei.github.io/categories/linux/</loc>
     <lastmod>2025-03-01T06:55:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-steam/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-steam/</loc>
     <lastmod>2025-03-01T06:26:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/steam/</loc>
+    <loc>https://wjinlei.github.io/tags/steam/</loc>
     <lastmod>2025-03-01T06:26:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2025-03-01T06:26:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-kof/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-kof/</loc>
     <lastmod>2025-03-01T05:08:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mame/</loc>
+    <loc>https://wjinlei.github.io/tags/mame/</loc>
     <lastmod>2025-03-01T05:08:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</loc>
     <lastmod>2025-03-01T05:08:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%8B%B3%E7%9A%8797/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%8B%B3%E7%9A%8797/</loc>
     <lastmod>2025-03-01T05:08:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/compression/</loc>
+    <loc>https://wjinlei.github.io/tags/compression/</loc>
     <lastmod>2025-03-01T05:10:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-compression-png/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-compression-png/</loc>
     <lastmod>2025-03-01T05:10:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ccna/</loc>
+    <loc>https://wjinlei.github.io/tags/ccna/</loc>
     <lastmod>2025-03-01T06:27:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/common/common-ccna/</loc>
+    <loc>https://wjinlei.github.io/posts/common/common-ccna/</loc>
     <lastmod>2025-03-01T06:27:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%80%9D%E7%A7%91/</loc>
+    <loc>https://wjinlei.github.io/tags/%E6%80%9D%E7%A7%91/</loc>
     <lastmod>2025-03-01T06:27:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%80%9A%E7%94%A8%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2025-03-03T07:11:37+08:00</lastmod>
+    <loc>https://wjinlei.github.io/categories/%E9%80%9A%E7%94%A8%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2025-04-10T13:51:07+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
+    <loc>https://wjinlei.github.io/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
     <lastmod>2025-03-01T06:27:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rust-adapter/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rust-adapter/</loc>
     <lastmod>2024-10-01T09:08:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/common/common-docker/</loc>
+    <loc>https://wjinlei.github.io/posts/common/common-docker/</loc>
     <lastmod>2025-03-01T06:30:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code-rust/code-rustini/</loc>
+    <loc>https://wjinlei.github.io/posts/code-rust/code-rustini/</loc>
     <lastmod>2024-10-01T09:08:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dotfile/</loc>
+    <loc>https://wjinlei.github.io/tags/dotfile/</loc>
     <lastmod>2025-03-01T06:55:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-rcm/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-rcm/</loc>
     <lastmod>2025-03-01T06:55:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pyenv/</loc>
+    <loc>https://wjinlei.github.io/tags/pyenv/</loc>
     <lastmod>2025-03-01T06:55:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-pyenv/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-pyenv/</loc>
     <lastmod>2025-03-01T06:55:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-rpmbuild/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-rpmbuild/</loc>
     <lastmod>2025-03-01T06:54:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/linux/linux-debbuild/</loc>
+    <loc>https://wjinlei.github.io/posts/os/linux/linux-debbuild/</loc>
     <lastmod>2025-03-01T06:54:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://wjinlei.github.io/tags/hugo/</loc>
     <lastmod>2025-03-01T06:52:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://wjinlei.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-03-01T06:52:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/common/common-hugo-write-blog/</loc>
+    <loc>https://wjinlei.github.io/posts/common/common-hugo-write-blog/</loc>
     <lastmod>2025-03-01T06:52:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-03-03T07:11:37+08:00</lastmod>
+    <loc>https://wjinlei.github.io/about/</loc>
+    <lastmod>2025-04-10T13:51:07+08:00</lastmod>
   </url>
 </urlset>
